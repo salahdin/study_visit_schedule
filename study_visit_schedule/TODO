@@ -1,0 +1,5 @@
+  create visit_schedule file as a package
+    - add crfs.py : list down the crfs
+    - create a visit schedule
+    - add schedule
+    - add visit schedule
